@@ -1,6 +1,6 @@
 # ISPF Master Class - Edit Macros Examples
                            
-The edit macros and execs in this package are related to the session ISPF Master Class: Edit Macros given by me on multiple occasions at SHARE and GSE-UK conferences.    
+The edit macros and execs in this package are related to the session **ISPF Master Class: Edit Macros** given by me on multiple occasions at SHARE and GSE-UK conferences.    
 
 The following files make up the package and should be maintained with           
 the GNU GENERAL PUBLIC LICENSE contained in the @LICENSE.TXT file.              
